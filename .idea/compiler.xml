@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FileUploadServer" />
+        <module name="MavenSSM" />
+        <module name="springmvc_day02_interceptor" />
+        <module name="springmvcday02" />
+        <module name="springmvcday02_Exception" />
+        <module name="springmvcday02_fileupload" />
+        <module name="ssm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FileUploadServer" target="1.7" />
+      <module name="MavenSSM" target="1.8" />
+      <module name="springmvc_day02_interceptor" target="1.8" />
+      <module name="springmvcday02" target="1.7" />
+      <module name="springmvcday02_Exception" target="1.8" />
+      <module name="springmvcday02_fileupload" target="1.8" />
+      <module name="ssm" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
